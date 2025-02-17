@@ -22,7 +22,7 @@
 - Web Development
 
 <h2> 🔭 I’m currently working on ...</h2>
-- DSA Practice, Cloud Certification
+- DSA Practice, Cloud Certification, Making more Projects
 
 <h2> 🤳 Connect with me:</h2>
 
