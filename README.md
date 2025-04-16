@@ -19,7 +19,6 @@
 
 - Web Design
 - MERN Stack
-- Meta Frontend Development Course (In progress)
 
 <h2> 🔭 I’m currently working on ...</h2>
 - DSA Practice, Certification in Frontend
