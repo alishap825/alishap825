@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alisha! <br/><a href="https://github.com/alishap825">Software Engineer</a>, <a href="https://www.linkedin.com/in/alisha-poudel/"> Frontend development enthusiast </a>
+<h1> <br/><a href="https://github.com/alishap825"> <a href="https://www.linkedin.com/in/alisha-poudel/"> 
 
 <h2>👨‍💻 Projects:</h2>
 
